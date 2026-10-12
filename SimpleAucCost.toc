@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: SimpleAucCost
+## Notes: Lightweight auction listing proceeds summary
+## Author: zimbabd
+## Version: 1.0
+
+
+SimpleAucCost.lua
